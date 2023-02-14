@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently seeking work placement in Helsinki!
+Currently seeking a work placement in Helsinki!
 
 --- 
 
