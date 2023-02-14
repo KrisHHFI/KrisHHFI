@@ -1,16 +1,19 @@
-### Hi there 👋
+Seeking work in Helsinki!
+
+--- 
+
+### About me
+
+- 🏫 Third year bachelors student at Haaga-Helia UAS
+- 💻 Aspiring frontend developer
+- 📈 Currently focused on React and Polygon.io
+
+--- 
+### Links
+- https://kristopherpepper.com/coding-portfolio
+- https://www.linkedin.com/in/kristopher-pepper-824184136/
+
 
 <!--
-**KrisHHFI/KrisHHFI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**My `README.md` which appears on my GitHub profile.
 -->
