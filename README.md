@@ -1,4 +1,6 @@
-Seeking work in Helsinki!
+## Hi there 👋
+
+Currently seeking work placement in Helsinki!
 
 --- 
 
@@ -10,9 +12,8 @@ Seeking work in Helsinki!
 
 --- 
 ### Links
-- https://kristopherpepper.com/coding-portfolio
-- https://www.linkedin.com/in/kristopher-pepper-824184136/
-
+- [My website](https://kristopherpepper.com/coding-portfolio)
+- [My LinkedIn](https://www.linkedin.com/in/kristopher-pepper-824184136/)
 
 <!--
 **My `README.md` which appears on my GitHub profile.
