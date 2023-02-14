@@ -1,7 +1,9 @@
 <div id="body" align="center">
     
-### **Seeking a work placement in Helsinki!**
+### Hi there! 👋 I'm currently seeking a work placement in Helsinki!
 
+<img src="https://media1.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47tyubkbah227zo0a65dm7yxdv96jjxpkpoebiv43w&rid=giphy.gif&ct=g" width="150"/>
+    
 --- 
 
 ### About me
@@ -12,7 +14,6 @@
 
 --- 
 ### Links
-
 
 <a href="https://kristopherpepper.com/coding-portfolio">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge"/>
