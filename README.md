@@ -1,23 +1,23 @@
 <div id="body" align="center">
     
-## Hi there! 👋
+### Hi there! 👋
 
 --- 
 
-## Status
+### Status
     
 **Seeking a work placement in Helsinki!**
 
 --- 
 
-## About me
+### About me
 
 • Third year bachelors student at Haaga-Helia UAS 🏫 <br />
 • Aspiring frontend developer 💻 <br />
 • Currently focused on React and Polygon.io 📈
 
 --- 
-## Links
+### Links
 
 
 <a href="https://kristopherpepper.com/coding-portfolio">
