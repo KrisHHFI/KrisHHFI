@@ -8,7 +8,7 @@
 
 ### About me
 
-• Third year bachelors student at Haaga-Helia UAS 🏫 <br />
+• Third year bachelor's student at Haaga-Helia UAS 🏫 <br />
 • Aspiring frontend developer 💻 <br />
 • Currently focused on React and Polygon.io 📈
 
