@@ -1,12 +1,6 @@
 <div id="body" align="center">
     
-### Hi there! 👋
-
---- 
-
-### Status
-    
-**Seeking a work placement in Helsinki!**
+### **Seeking a work placement in Helsinki!**
 
 --- 
 
