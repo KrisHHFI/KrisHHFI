@@ -10,7 +10,7 @@
 
 • Third year bachelor's student at Haaga-Helia UAS 🏫 <br />
 • Aspiring frontend developer 💻 <br />
-• Currently focused on React and Polygon.io 📈
+• Currently learning Microsoft Power BI  📈
 
 --- 
 ### Links
