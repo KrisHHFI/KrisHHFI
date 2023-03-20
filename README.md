@@ -3,14 +3,14 @@
 
 <img src="https://media1.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47tyubkbah227zo0a65dm7yxdv96jjxpkpoebiv43w&rid=giphy.gif&ct=g" width="150"/>
   
-### Hi there! 👋 I'm currently seeking a work placement in Helsinki!
+### Hi there! 👋
 --- 
 
 ### About me
 
 • Third year bachelor's student at Haaga-Helia UAS 🏫 <br />
 • Aspiring frontend developer 💻 <br />
-• Currently learning Microsoft Power BI  📈
+• Currently focusing on web development 🧾
 
 --- 
 ### Links
