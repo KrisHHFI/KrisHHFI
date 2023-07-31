@@ -10,7 +10,7 @@
 
 • Third year bachelor's student at Haaga-Helia UAS 🏫 <br />
 • Aspiring frontend developer 💻 <br />
-• Currently focusing on web development 🧾
+• Currently focusing on C++ 🧾
 
 --- 
 ### Links
