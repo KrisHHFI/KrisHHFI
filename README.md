@@ -5,9 +5,9 @@
 
 ### About me
 
-• Third year bachelor's student at Haaga-Helia UAS 🏫 <br />
+• Soon-to-be graduate from Haaga-Helia UAS 🏫 <br />
 • Aspiring frontend developer 💻 <br />
-• Currently focusing on Uni 🧾
+• Currently focusing on job searching 🧾
 
 --- 
 ### Links
