@@ -5,7 +5,7 @@
 
 ### About me
 
-• Soon-to-be graduate from Haaga-Helia UAS 🏫 <br />
+• Haaga-Helia Graduate 🏫 <br />
 • Aspiring frontend developer 💻 <br />
 • Currently focusing on job searching 🧾
 
