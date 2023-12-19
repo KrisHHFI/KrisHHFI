@@ -17,7 +17,7 @@
 
 <br />
 
-<a href="https://kristopherpepper.com/coding-portfolio">
+<a href="https://kristopherpepper.com/coding">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge"/>
 </a>
 
