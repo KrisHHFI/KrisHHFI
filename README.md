@@ -11,7 +11,7 @@
 
 --- 
 
-Note: GitHub does not recognise SQL files. So, for my SQL projects please search "SQL" in my repositories. The filter by langauges function won't show them.
+Note: GitHub does not recognise SQL files. So, for my SQL projects please search "SQL" in my repositories. The filter by languages function won't show them.
 
 --- 
 ### Links
