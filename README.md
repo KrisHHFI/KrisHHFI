@@ -10,10 +10,6 @@
 • Currently focusing on job searching 🧾
 
 --- 
-
-Note: GitHub does not recognise SQL files. So, for my SQL projects please search "SQL" in my repositories. The filter by languages function won't show them.
-
---- 
 ### Links
 <a href="https://www.linkedin.com/in/kristopher-pepper-824184136/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
