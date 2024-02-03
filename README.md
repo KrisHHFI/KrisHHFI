@@ -7,7 +7,7 @@
 
 • Haaga-Helia Graduate 🏫 <br />
 • Aspiring frontend developer 💻 <br />
-• Currently focusing on job searching 🧾
+• Focused on job searching and developing a mobile game 🧾
 
 --- 
 ### Links
