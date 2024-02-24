@@ -6,7 +6,7 @@
 ### About me
 
 • Haaga-Helia Graduate 🏫 <br />
-• Aspiring frontend developer 💻 <br />
+• Junior frontend developer 💻 <br />
 • Focused on job searching and developing a mobile game 🧾
 
 --- 
