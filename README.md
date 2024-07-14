@@ -6,7 +6,7 @@
 ### About me
 
 • Haaga-Helia Graduate 🏫 <br />
-• Junior frontend developer 💻 <br />
+• Software Developer 💻 <br />
 • Ongoing project: [Tic Tac Farm](https://play.google.com/store/apps/details?id=com.chickencatstudio.TicTacFarm) 🐄🐑
 
 --- 
