@@ -7,7 +7,8 @@
 
 • Haaga-Helia Graduate 🏫 <br />
 • Software Developer 💻 <br />
-• Ongoing project: [Tic Tac Farm](https://play.google.com/store/apps/details?id=com.chickencatstudio.TicTacFarm) 🐄🐑
+• Ongoing project: [Tic Tac Farm](https://play.google.com/store/apps/details?id=com.chickencatstudio.TicTacFarm) 🐄🐑 <br />
+• Live React [Weather App](https://krishhfi.github.io/React-Weather-App/) 🌧️ <br />
 
 --- 
 ### Links
