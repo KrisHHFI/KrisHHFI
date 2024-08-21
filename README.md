@@ -5,6 +5,7 @@
 
 ### About me
 
+• [Portfolio site](https://krishhfi.github.io/Portfolio/#) <br />
 • Haaga-Helia Graduate 🏫 <br />
 • Software Developer 💻 <br />
 • Ongoing project: [Tic Tac Farm](https://play.google.com/store/apps/details?id=com.chickencatstudio.TicTacFarm) 🐄🐑 
