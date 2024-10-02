@@ -7,8 +7,7 @@
 
 • Haaga-Helia Graduate 🏫 <br />
 • Software Developer 💻 <br />
-• Ongoing project: learning new technology! 
-
+• Ongoing project: Building a platform 👍
 <br />
 
 ### Tech Stack
