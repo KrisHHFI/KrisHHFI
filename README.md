@@ -3,11 +3,13 @@
 ### Hi there! 👋
 --- 
 
+*Most of my repositories include the main technology in their name. So, if you search for 'React,' projects using React will appear. You can also use the language filter to refine your search.*
+
 ### About me
 
 • Haaga-Helia Graduate 🏫 <br />
 • Software Developer 💻 <br />
-• Ongoing project: Building a platform 👍
+• Focusing on Flutter
 <br />
 
 ### Tech Stack
