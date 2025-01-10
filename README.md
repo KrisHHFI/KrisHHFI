@@ -9,7 +9,8 @@
 
 • Haaga-Helia Graduate 🏫 <br />
 • Software Developer 💻 <br />
-• Focusing on Flutter
+• Focusing on my new site [nordichoroscope.com](https://nordichoroscope.com/)
+
 <br />
 
 ### Tech Stack
