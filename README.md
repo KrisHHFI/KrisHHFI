@@ -54,9 +54,6 @@
 <a href="https://www.linkedin.com/in/kristopher-pepper-824184136/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://krishhfi.github.io/Portfolio/#">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
-</a>
 </div>
 
 
