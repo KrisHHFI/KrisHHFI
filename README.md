@@ -5,6 +5,8 @@
 
 *Most of my repositories include the main technology in their name. So for example, if you search for 'React,' projects using React will appear. You can also use the language filter to refine your search.*
 
+<br />
+
 ### About me
 
 • Haaga-Helia Graduate 🏫 <br />
