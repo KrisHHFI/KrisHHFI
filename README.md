@@ -11,7 +11,7 @@
 
 • Haaga-Helia Graduate 🏫 <br />
 • Software Developer 💻 <br />
-• Focusing on my new site [nordichoroscope.com](https://nordichoroscope.com/)
+• Focusing on learning new skills
 
 <br />
 
