@@ -9,9 +9,8 @@
 
 ### About me
 
-• Haaga-Helia Graduate 🏫 <br />
 • Software Developer 💻 <br />
-• Focusing on learning new skills
+• Focusing on a new project
 
 <br />
 
