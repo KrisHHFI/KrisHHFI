@@ -10,7 +10,7 @@
 ### About me
 
 • Software Developer 💻 <br />
-• Focusing on an [AI image detector](https://github.com/KrisHHFI/AI-Image-Detector-Site).
+• Focusing on an [AI image detector](https://github.com/KrisHHFI/AI-Image-Detector-Site)
 
 <br />
 
