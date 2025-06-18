@@ -53,6 +53,11 @@
 <a href="https://www.linkedin.com/in/kristopher-pepper-824184136/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
+<a href="https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=8jfuV8np7ReciljP-0">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+</a>
+
 </div>
 
 
