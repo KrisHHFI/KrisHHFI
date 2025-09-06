@@ -7,10 +7,11 @@
 
 <br />
 
-### About me
+### Current Side Projects
 
-• Software Developer 💻 <br />
-• Focusing on [It's Bait](https://itsbait.com/)
+• [Dog Behaviour App](https://github.com/KrisHHFI/Dog_Behavior_App)<br />
+• [It's Bait](https://itsbait.com/)<br />
+• [Photography Portfolio](https://github.com/KrisHHFI/Photography_Portfolio_2025)
 
 <br />
 
