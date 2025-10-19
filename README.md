@@ -9,7 +9,7 @@
 
 ### Current Side Projects
 
-• [Dog Behaviour App](https://github.com/KrisHHFI/Dog_Behavior_App)<br />
+• Thinking of a new project
 
 <br />
 
