@@ -9,7 +9,7 @@
 
 ### Current Side Projects
 
-• Thinking of a new project
+• Working on a new portfolio
 
 <br />
 
