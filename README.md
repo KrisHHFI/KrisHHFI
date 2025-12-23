@@ -9,7 +9,7 @@
 
 ### Current Side Projects
 
-• Check out my [portfolio](https://portfolio-2a913.web.app/)
+• My latest [portfolio](https://portfolio-2a913.web.app/)
 
 <br />
 
