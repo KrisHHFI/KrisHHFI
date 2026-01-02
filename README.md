@@ -62,6 +62,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-000000?style=for-the-badge&logo=microsoftclarity&logoColor=white)](https://clarity.microsoft.com/)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
