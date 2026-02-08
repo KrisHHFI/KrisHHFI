@@ -9,7 +9,7 @@
 
 ### Current Side Projects
 
-• My latest [portfolio](https://portfolio-2a913.web.app/)
+• Thinking about my next project
 
 <br />
 
@@ -17,6 +17,10 @@
 
 **AI**  
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+**Code Editors**  
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Design**  
 ![darktable](https://img.shields.io/badge/darktable-000000?style=for-the-badge&logo=darktable&logoColor=white)
