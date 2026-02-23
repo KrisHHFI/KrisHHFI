@@ -9,7 +9,7 @@
 
 ### Current Side Projects
 
-• Thinking about my next project
+• Working towards a personal trading algorithm
 
 <br />
 
