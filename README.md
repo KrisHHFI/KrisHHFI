@@ -3,7 +3,7 @@
 ### Hi there! 👋
 --- 
 
-*Developer and photographer*
+*Developer | Designer | Photographer*
 
 <br />
 
