@@ -2,10 +2,16 @@
 
 ### *Developer | Designer | Photographer* 👋
 --- 
+### Links
 
 [Figma Board](https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=C36ZCiJAlFUlbGMJ-0) <br />
 
-[Figma Prototypes](https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=C36ZCiJAlFUlbGMJ-0](https://www.figma.com/proto/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=217-405&p=f&t=kkDyBx1w3R1lsi93-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&show-proto-sidebar=1&starting-point-node-id=217%3A405))
+[Figma Prototypes](https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=C36ZCiJAlFUlbGMJ-0](https://www.figma.com/proto/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=217-405&p=f&t=kkDyBx1w3R1lsi93-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&show-proto-sidebar=1&starting-point-node-id=217%3A405)) <br />
+
+[Photography](https://portfolio-2a913.web.app/) <br />
+
+
+
 
 <br />
 
@@ -73,18 +79,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br />
-
---- 
-### Links
-<a href="https://www.linkedin.com/in/kristopher-pepper-824184136/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-<a href="https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=8jfuV8np7ReciljP-0">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-</a>
-
-</div>
 
 
 <!--
