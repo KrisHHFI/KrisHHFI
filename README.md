@@ -1,9 +1,11 @@
 <div id="body" align="center">
 
-### Hi there! 👋
+### *Developer | Designer | Photographer* 👋
 --- 
 
-*Developer | Designer | Photographer*
+[Figma Board](https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=C36ZCiJAlFUlbGMJ-0) <br />
+
+[Figma Prototypes](https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=C36ZCiJAlFUlbGMJ-0](https://www.figma.com/proto/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=217-405&p=f&t=kkDyBx1w3R1lsi93-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&show-proto-sidebar=1&starting-point-node-id=217%3A405))
 
 <br />
 
