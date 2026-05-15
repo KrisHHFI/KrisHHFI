@@ -8,7 +8,7 @@
 
 [Figma Prototypes](https://www.figma.com/proto/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=198-203&p=f&t=COs3DxtMzUUGCGIY-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=198%3A203&show-proto-sidebar=1) <br />
 
-[Photography](https://portfolio-2a913.web.app/) <br />
+[Photography](https://portfolio-2a913.web.app/photography) <br />
 
 
 
