@@ -17,7 +17,7 @@
 
 ### Current Side Projects
 
-• Thinking about a new project
+• [https://easyedgar.app/](https://easyedgar.app/)
 
 <br />
 
