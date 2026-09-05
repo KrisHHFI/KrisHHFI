@@ -1,8 +1,8 @@
 <div id="body" align="left">
 
-### *Developer | Designer | Photographer* 👋
+## *Developer | Designer | Photographer* 👋
 --- 
-### Links
+## Links
 
 [Figma Board](https://www.figma.com/design/t2tXIf9ibM5U7A8Q5fWBZk/Concepts?node-id=0-1&p=f&t=C36ZCiJAlFUlbGMJ-0) <br />
 
@@ -12,13 +12,13 @@
 
 <br />
 
-### Current Side Projects
+## Current Side Projects
 
-• [https://easyedgar.app/](https://easyedgar.app/)
+[https://easyedgar.app/](https://easyedgar.app/)
 
 <br />
 
-### Tech Stack
+## Tech Stack
 
 **AI**  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
