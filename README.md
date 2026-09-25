@@ -14,7 +14,8 @@
 
 ## Current Side Projects
 
-[https://easyedgar.app/](https://easyedgar.app/)
+- [https://easyedgar.app/](https://easyedgar.app/)
+- Using Claude for daily financial updates and stock screening
 
 <br />
 
